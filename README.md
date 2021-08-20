@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Asmodeus-Devil
 - 👀 I’m interested in Coding and Animes
 - 🌱 I’m currently learning Python
-- 📫 How to reach me : codeinferno.blogpost.com
+- 📫 How to reach me : codeinferno.blogspot.com
 
 <!---
 Asmodeus-Devil/Asmodeus-Devil is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
